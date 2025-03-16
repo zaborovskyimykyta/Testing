@@ -1,4 +1,4 @@
-package LR_1;
+package LR_2;
 
 /**
  * Hello world!
